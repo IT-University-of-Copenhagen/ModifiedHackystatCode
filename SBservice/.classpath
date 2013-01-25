@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="E:/public_hackystat/hackystat-8.4.127-services-bin/hackystat-sensorbase-uh/sensorbase.jar"/>
+	<classpathentry kind="lib" path="E:/程序/Restlet-1.1/lib/org.restlet.jar"/>
+	<classpathentry kind="lib" path="E:/程序/Restlet-1.1/lib/com.noelios.restlet.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
